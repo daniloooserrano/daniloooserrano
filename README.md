@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Dani, a passionate developer from Veneziela, who loves turning ideas into reality through code.
+I'm Dani, a passionate developer from Venezuela, who loves turning ideas into reality through code.
 
 ## 🚀 What I Do
 
